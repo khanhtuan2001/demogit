@@ -1,0 +1,157 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	line-height: 22px;
+	font-size: 20px;
+	
+}
+.fl-left
+{
+	float: left;
+}
+.fl-right
+{
+	float: right;
+}
+#header
+{
+	background: #000000;
+}
+.clearfix:after {
+    content: ".";
+    visibility: hidden;
+    display: block; 
+    clear: both;
+	width: 0px;
+	height: 0px;
+}
+#logo
+{   
+    margin-top: 0.5cm;
+	padding: 10px 0px;
+}
+.wp-inner
+{
+	width: 1170px;
+	margin: 0 auto;
+}
+#main-menu
+{
+	list-style: none;
+	
+}
+#main-menu li
+{
+	float: left;
+}
+#main-menu li a
+{
+	text-decoration: none;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	display: block;
+	padding: 35px 30px;
+	
+}	
+#main-menu li a:hover
+{
+	background: #0dabcf;
+	color: #FFFFFF;
+}
+#car
+{
+	display: flex;
+	background: #FFFFFF;
+}
+#carimg
+{
+	margin: auto;
+}
+#video-tintuc
+{
+	width: 1170px;
+	margin: auto;
+}
+#vinfast-video-trailer
+{
+	width: 640px;
+	float:left;
+}
+#header-video
+{
+}
+.font-chu-video
+{
+	font-size: 50px;
+	padding: 20px 0px;
+	text-transform: uppercase;
+}
+#video
+{
+	display: flex;
+}
+#main-video
+{
+	margin: auto;
+	
+}
+#tin-tuc
+{
+	width: 500px;
+	float:right;
+}
+#noi-dung
+{
+	display: flex;
+}
+#hinh
+{
+	margin: auto;
+}
+#chu
+{
+	display: block;
+	float:none;
+}
+.tieudetintuc
+{
+	font-size: 23px;
+	text-decoration: none;
+	color: #000000;
+}
+.tieudetintuc:hover
+{
+	color: #222C63;
+}
+#footer
+{
+	background-color: #a3a0a0;
+	text-align: center;
+	padding: 30px;
+}
+
+#mau-nen
+{
+	max-width: inherit;
+	max-height: inherit;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+#noidung
+{
+	width: 1170px;
+	margin: auto;
+	display: flex;	
+}
+#dau-xe
+{
+		margin: auto;
+}
+#gioithieu
+{
+	
+}
